@@ -1,0 +1,42 @@
+{
+    "ssd": {
+        "password": "$2b$12$Zk2xTMSf62E3dURDEu.ziu1ub5aAY6rbNwBirmZcVN/QK.FgTbKRy",
+        "photo_path": "E:/Isu_File/Isu_Idcard/Idcard/1_id_For_Pre/2023_2024/Pic/2023002.png"
+    },
+    "er": {
+        "password": "$2b$12$CeyVU15iqhN1St3hNTNbZOBioC2hj0q.HQkVZMSyJcyLMFwIf1Ene",
+        "photo_path": "E:/Isu_File/Isu_Idcard/Idcard/1_id_For_Pre/2023_2024/Pic/2023002.png"
+    },
+    "we": {
+        "password": "$2b$12$25oCGL0a5G6kg5a3iPg2SeUwgu/6Hylj.WAn84eLmrDesJKkG05Cq",
+        "photo_path": "E:/Isu_File/Isu_Idcard/Idcard/1_id_For_Pre/2023_2024/Pic/2023002.png"
+    },
+    "yu": {
+        "password": "yu",
+        "photo_path": "E:/Isu_File/Isu_Idcard/Idcard/1_id_For_Pre/2023_2024/Pic/2023002.png"
+    },
+    "ft": {
+        "password": "$2b$12$7exCxEfVvc3B.DJuNzApEeytnRJ7.W7yZzkwMalDyr2z/Ry07Nwde",
+        "photo_path": "E:/Isu_File/Isu_Idcard/Idcard/1_id_For_Pre/2023_2024/Pic/2023002.png"
+    },
+    "sd": {
+        "password": "$2b$12$LgphRr907OtIMcU.3Ct1mucNF2hgOCd8l8ReYPO9M31P9wKoisMKi",
+        "photo_path": "E:\\Coding\\Vs Code Studio\\Task4\\captures\\sd_current.jpg"
+    },
+    "ui": {
+        "password": "$2b$12$pxP54oh16E6rjvo7gzuFsOBqldzeyW2wzUaSeDwjX4Nuuy6z3O0M.",
+        "photo_path": "E:\\Coding\\Vs Code Studio\\Soft_Final\\captures\\ui_current.jpg"
+    },
+    "qw": {
+        "password": "$2b$12$LFI6doNaVmIcRZYAlQRCAu50ZLqV6tyViHuBxaoFIxvXQOjXj46x2",
+        "photo_path": "E:\\Coding\\Vs Code Studio\\Soft_Final\\captures\\qw_current.jpg"
+    },
+    "kuta": {
+        "password": "$2b$12$03N9fmKfXNDKBj33QoSzW.LkB.tvCMpf.bXJZDXCcpLhTKcv7Ixyu",
+        "photo_path": "E:\\Coding\\Vs Code Studio\\Soft_Final\\captures\\kuta_current.jpg"
+    },
+    "walid": {
+        "password": "$2b$12$.YqWe3eeuCvS3KW70z0kNOMMpgUmAj3ViTKxnrP0OA53wz8Apc5Zy",
+        "photo_path": "E:\\Coding\\Vs Code Studio\\Soft_Final\\captures\\walid_current.jpg"
+    }
+}

@@ -1,0 +1,24 @@
+##Need to install 
+# pip install Flask bcrypt face_recognition opencv-python
+**python packge Need to download**
+Flask
+bcrypt
+face_recognition
+opencv-python
+pillow
+tkinter
+
+## Model Training
+# Create and activate a virtual environment
+python -m venv face_recog_env
+source face_recog_env/bin/activate
+
+# Install dependencies
+pip install dlib face-recognition numpy opencv-python
+Install Cmake
+pip install deepface
+
+pip install facenet-pytorch
+pip install torch torchvision torchaudio tqdm 
+pip install dlib-19.24.0-cp39-cp39-win_amd64.whl
+requared packge are given in file. install them to run the Program.

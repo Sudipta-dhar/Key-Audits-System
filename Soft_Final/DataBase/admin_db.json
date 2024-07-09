@@ -1,0 +1,26 @@
+{
+    "rt": {
+        "password": "$2b$12$1fPsw6U13poNet.aSJbbLezCkycgBn1Z2VM6SYur/XFxM5I0.HZSa",
+        "photo_path": "E:\\Coding\\Vs Code Studio\\Soft_Final\\captures\\rt_current.jpg"
+    },
+    "gt": {
+        "password": "$2b$12$h0TASAVHOECSPMtfgdjwtOA0TDXEqyI/ES4qfLbMLn9PT0brIrSJu",
+        "photo_path": "E:/Isu_File/Isu_Idcard/Idcard/1_id_For_Pre/2023_2024/Pic/2023002.png"
+    },
+    "nt": {
+        "password": "$2b$12$m3p1WvX0PPXvf1h.qpoC5eoorZFYaIDr1Ja4GC22yfAKpSqb/zbD2",
+        "photo_path": "E:/Isu_File/Isu_Idcard/Idcard/1_id_For_Pre/2023_2024/Pic/2023002.png"
+    },
+    "king": {
+        "password": "$2b$12$qCxFav9GsigFM9sXEJQwAuXu9xyPZNczVdgMMlrcKKfL./2QOgU32",
+        "photo_path": "E:\\Coding\\Vs Code Studio\\Soft_Final\\captures\\king_current.jpg"
+    },
+    "Ibrahim": {
+        "password": "$2b$12$sX6yOZ9ku8ryVhDv2/AgiOUPP6.n5PiFlX3KON3btMVkN5ByiI.t.",
+        "photo_path": "E:\\Coding\\Vs Code Studio\\Soft_Final\\captures\\Ibrahim_current.jpg"
+    },
+    "Subodh": {
+        "password": "$2b$12$Kl8qPrca6kzI28UiXYBukOg21HZaHVyvIaksvGTwqW61Ao7KHRNtO",
+        "photo_path": "E:/Coding/Vs Code Studio/subodh.jpg"
+    }
+}
